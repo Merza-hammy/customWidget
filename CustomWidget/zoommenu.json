@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-zoommenu",
-      "url": "http://localhost/SAC/saczoommenu/zoommenu.js",
+      "url": "https://merza-hammy.github.io/customWidget/CustomWidget/zoommenu.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-zoommenu-aps",
-      "url": "http://localhost/SAC/saczoommenu/aps_zoommenu.js",
+      "url": "https://merza-hammy.github.io/customWidget/CustomWidget/aps_zoommenu.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
