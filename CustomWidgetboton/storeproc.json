@@ -15,14 +15,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-storeproc",
-      "url": "http://localhost/SAC/sacstoreproc/storeproc.js",
+      "url": "https://merza-hammy.github.io/customWidget/CustomWidgetboton/storeproc.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-storeproc-aps",
-      "url": "http://localhost/SAC/sacstoreproc/aps_storeproc.js",
+      "url": "https://merza-hammy.github.io/customWidget/CustomWidgetboton/aps_storeproc.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
