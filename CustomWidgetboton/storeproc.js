@@ -339,7 +339,7 @@
     function loadthis(that, changedProperties) {
         if (that._firstConnection === 0) {
 
-            let socketiojs = "http://localhost/SAC/sacstoreproc/socket.io.js";
+            let socketiojs = "https://merza-hammy.github.io/customWidget/CustomWidgetboton/socket.io.js";
 
             async function LoadLibs() {
                 try {
